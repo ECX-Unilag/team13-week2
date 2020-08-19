@@ -14,3 +14,17 @@ Design link: Name: Benjamin Osagie
 Track: UI/UX
 Summary: Designed the student dashboard.
 Design link:https://www.figma.com/file/zOwr2J7bnb09ZEokJVgAJY/Web-system-for-Edutech?node-id=50%3A466&viewport=-1951%2C672%2C0.25
+
+
+#Name: 
+ABASIODIONG UDOFIA 
+
+#Track: 
+BACKEND
+
+#Summary: 
+Build the backend for Admin, Teachers, Guardians and Students(login, registration and display of all Admins, Teachers, Guardains, and Student), and Dashboards (Management, Guardian, students, Email notification and payment system) for an Edutech System..
+
+project Link: https://github.com/udofia2/edutech-API
+
+
