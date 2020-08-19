@@ -20,3 +20,8 @@ Name: ABASIODIONG UDOFIA
 Track: BACKEND
 Summary: Build the backend for Admin, Teachers, Guardians and Students(login, registration and display of all Admins, Teachers, Guardains, and Student), and Dashboards (Management, Guardian, students, Email notification and payment system) for an Edutech System
 Project Link: https://github.com/udofia2/edutech-API
+
+Name: Oloye Onaopemipo
+Track: FRONTEND
+Summary: Implemented the UI; Landing page, Login pages, Application page, Dashboards.
+Project Link: https://github.com/Onaope/EduTech
