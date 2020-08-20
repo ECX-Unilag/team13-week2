@@ -24,6 +24,8 @@ Design link:https://www.figma.com/file/zOwr2J7bnb09ZEokJVgAJY/Web-system-for-Edu
 
 [Project Link](https://github.com/udofia2/edutech-API) https://github.com/udofia2/edutech-API
 
+API Documentation: https://documenter.getpostman.com/view/7592361/T1LTdjKU
+
 
 
 
