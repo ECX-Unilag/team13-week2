@@ -23,12 +23,12 @@ Design link:https://www.figma.com/file/zOwr2J7bnb09ZEokJVgAJY/Web-system-for-Edu
 
 > Summary: Build the backend for Admin, Teachers, Guardians and Students(login, registration and display of all Admins, Teachers, Guardains, and Student), and Dashboards (Management, Guardian, students, Email notification and payment system) for an Edutech System.
 [Project Link](https://github.com/udofia2/edutech-API) https://github.com/udofia2/edutech-API      
-API Documentation: https://documenter.getpostman.com/view/7592361/T1LTdjKU     
+**API Documentation:** https://documenter.getpostman.com/view/7592361/T1LTdjKU     
 
 ***
 
 
-Name: Oloye Onaopemipo 
-Track: FrontEnd
-Summary: Built the Entire frontEnd for Landing page, login page, registration page and Dashboards (Management, Guardian, students, and payment system) for an Edutech System
-Project Link: https://github.com/Onaope/EduTech
+**Name:** Oloye Onaopemipo      
+**Track:** FrontEnd          
+**Summary:** Built the Entire frontEnd for Landing page, login page, registration page and Dashboards (Management, Guardian, students, and payment system) for an Edutech System           
+**Project Link:** https://github.com/Onaope/EduTech
