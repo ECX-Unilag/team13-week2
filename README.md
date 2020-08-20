@@ -31,4 +31,4 @@ Design link:https://www.figma.com/file/zOwr2J7bnb09ZEokJVgAJY/Web-system-for-Edu
 Name: Oloye Onaopemipo 
 Track: FrontEnd
 Summary: Built the Entire frontEnd for Landing page, login page, registration page and Dashboards (Management, Guardian, students, and payment system) for an Edutech System
-Project Link:
+Project Link: https://github.com/Onaope/EduTech
